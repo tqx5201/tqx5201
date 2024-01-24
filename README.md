@@ -1,4 +1,4 @@
-### Hi there 👋
+### println("Hi there") 👋
 
 <!--
 **tqx5201/tqx5201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=tqx5201)]
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqx5201&show_icons=true&theme=tokyonight)
